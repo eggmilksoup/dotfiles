@@ -1,0 +1,6 @@
+set imap_user="amy@amycarey.org"
+set from="amy@amycarey.org"
+set realname="Amy Carey"
+set imap_login="amy"
+set spoolfile=imaps://amy@mail.milksoup.net/INBOX
+set smtp_url="smtps://amy@mail.milksoup.net"

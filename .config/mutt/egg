@@ -1,0 +1,6 @@
+set imap_user="egg@milksoup.net"
+set from="egg@milksoup.net"
+set realname="Egg"
+set imap_login="egg"
+set spoolfile=imaps://egg@mail.milksoup.net/INBOX
+set smtp_url="smtps://egg@mail.milksoup.net"

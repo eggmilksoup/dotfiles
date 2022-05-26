@@ -1,0 +1,15 @@
+set smtp_url="smtps://egg@mail.milksoup.net"
+set smtp_authenticators=plain
+set from="egg@milksoup.net"
+set realname="Egg"
+
+set assumed_charset="utf-8"
+
+bind index i noop
+macro index i0 :source\ ~/.config/mutt/muttrc<return>c/var/mail/squid<return>
+macro index i1 :source\ ~/.config/mutt/egg<return>cimaps://egg@mail.milksoup.net/INBOX<return>
+macro index i2 :source\ ~/.config/mutt/ccc<return>cimaps://david@mail.careycorner.com/INBOX<return>
+macro index i3 :source\ ~/.config/mutt/dpc<return>cimaps://david@mail.milksoup.net/INBOX<return>
+macro index i4 :source\ ~/.config/mutt/amy<return>cimaps://amy@mail.milksoup.net/INBOX<return>
+
+auto_view text/html

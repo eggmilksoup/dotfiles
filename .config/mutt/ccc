@@ -1,0 +1,6 @@
+set imap_user="david@careycorner.com"
+set from="david@careycorner.com"
+set realname="David Carey"
+set imap_login="david"
+set spoolfile=imaps://david@mail.careycorner.com/INBOX
+set smtp_url="smtps://david@mail.careycorner.com"

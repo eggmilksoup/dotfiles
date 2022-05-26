@@ -1,0 +1,6 @@
+set imap_user="david@davidpcarey.com"
+set from="david@davidpcarey.com"
+set realname="David Carey"
+set imap_login="david"
+set spoolfile=imaps://david@mail.milksoup.net/INBOX
+set smtp_url="smtps://david@mail.milksoup.net"

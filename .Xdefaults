@@ -1,0 +1,23 @@
+*VT100*foreground: #222222
+*VT100*background: #b2b26c
+*VT100*color0: #222222
+*VT100*color1: #db5a35
+*VT100*color2: #5adb35
+*VT100*color3: #e0e032
+*VT100*color4: #5757b2
+*VT100*color5: #d378b2
+*VT100*color6: #78d3b2
+*VT100*color7: #d8d890
+*VT100*color8: #40403c
+*VT100*color9: #e0955b
+*VT100*color10: #95e05b
+*VT100*color11: #e8e864
+*VT100*color12: #6161d4
+*VT100*color13: #e095d4
+*VT100*color14: #95e0d4
+*VT100*color15: #eeeeaa
+*VT100*allowTitleOps: true
+*VT100*scrollBar: false
+*VT100*faceName:Terminus:size=7
+*VT100*translations: #override Shift<Btn2Up>: insert-selection(CLIPBOARD, CUT_BUFFER1)
+*VT100*metaSendsEscape: true
