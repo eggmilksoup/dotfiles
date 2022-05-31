@@ -49,6 +49,7 @@ bindsym $mod+Return exec /usr/X11R6/bin/xterm
 
 # start a browser
 bindsym $mod+semicolon exec /usr/local/bin/qutebrowser
+bindsym $mod+Shift+semicolon exec /usr/local/bin/qutebrowser --target window discord.com/app
 
 # lock the session
 bindsym $mod+q exec /usr/X11R6/bin/xlock
